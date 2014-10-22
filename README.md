@@ -3,7 +3,7 @@ The-Game
 
 King Mulac!!
 
-// (c) no not steal
+
 
 float x = 190;
 float xt;
